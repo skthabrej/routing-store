@@ -6,7 +6,7 @@ const Header = () => (
         <div className='card-container'>
             <div className='header-details'>
                 <img src='https://i.ibb.co/X3ftRj1/store-g1e349520c-1280.png' alt='logo' className='logo-img'/>
-                <h1 className='header-heading'>STORE</h1>
+                <h1 className='header-heading'>reCycle</h1>
             </div>
             <ul className="nav-items-container">
                 <div className='list-container'>
