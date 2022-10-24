@@ -1,0 +1,40 @@
+.bg-container{
+    background-image: linear-gradient(180deg, rgb(245, 255, 151), rgb(255, 112, 162));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.card-container {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.logo-img {
+    height: 70px;
+    width: 70px;
+}
+
+.list-container {
+    display: flex;
+    list-style-type: none;
+}
+
+.header-details {
+    display: flex;
+}
+
+.links {
+    margin: 10px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.header-heading {
+    color: rgb(0, 0, 0);
+    font-size: 22px;
+}

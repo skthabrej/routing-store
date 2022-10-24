@@ -1,0 +1,20 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: repeating-linear-gradient(rgb(255, 207, 207), rgb(255, 255, 176) 10%);
+}
+
+.home-img {
+    height: 50%;
+    width: 50%;
+}
+
+.home-heading {
+    color: rgb(255, 255, 255);
+    font-size: 70px;
+    font-weight: bold;
+    font-family: 'Times New Roman';
+    text-shadow: 2px 2px 4px #000000;
+}
