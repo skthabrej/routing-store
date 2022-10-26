@@ -7,16 +7,15 @@ class About extends Component {
             <div className="home-container">
                 <h1 className="home-heading">About</h1>
                 <p className="paragraph">
-                    An reCycle Store is a comprehensive ecommerce solution that helps you get more out of the reCycle marketplace and the millions of buyers worldwide who shop on reCycle. 
-                    You get exclusive marketing and merchandising tools, plus great customization features to build a strong brand that keeps customers coming back. By showcasing all of your merchandise in one location, 
-                    an reCycle Store creates a central shopping destination where buyers can learn more about you, your products, and your policies.
-                    In addition, an reCycle Store subscription package provides reCycle sellers with a range of options for easy selling and maximum profitability. List in Fixed Price with full search exposure for as low as 3¢ and in Auction-style with discounted Final Value Fees.A red "Stores" tag next to a seller's user ID indicates that the seller has an reCycle Store.
+                storm is the platform developers love for building highly-performant and dynamic websites, e-commerce stores and web applications.
+                By uniting an extensive ecosystem of technologies, services and APIs into one workflow, storm unlocks new levels of team productivity, while saving time and money.
+                Our bet on Jamstack is quickly coming true. The web is rapidly changing away from monolithic to decoupled apps, and web developers are storming ahead with more power than ever. storm is built to cater to that movement, and in just a few years we’ve on-boarded millions of developers and businesses, and are building and serving millions of web projects daily around the globe.
+                Fun fact: An estimated 16% of the internet population visits a website or web app on storm each month.
                 </p>
                 <p className="paragraph">
-                In evaluating the benefits of an reCycle Store, you should consider your listing volume and most frequently used listing format. If you're an existing reCycle seller, enter your selling activity into the Fee Illustrator to determine which reCycle Stores subscription may best fit your needs. For many sellers, an reCycle Store subscription can reduce overall fees significantly. reCycle Stores is also one of the best ways to establish your brand with a custom Store home page and custom header and logo that appear in your listings.
-                </p>
-                <p className="paragraph">
-                All items currently listed on reCycle will automatically show up in your reCycle Store. To list new items, click the "Sell" button at the top of any reCycle page. You'll go through a step-by-step process that makes it easy to list your item and find appropriate categories for your item. If you would like to list in bulk, you can use advanced seller tools like Turbo Lister, Selling Manager, or your favorite listing tool.
+                storm is a diverse group of incredible talent from all over the world. We’re ~44% woman or non-binary, and have about half as many nationalities as we are team members!
+
+                At storm, we have a distributed culture rather than just being "remote-friendly." Simply put, we strive to be a workplace where you can work from home and have an equal opportunity to influence decisions and culture across the organization. We tackle complex problems, in a remote-first environment while caring deeply about what we do and having fun.
                 </p>
             </div>
         )
