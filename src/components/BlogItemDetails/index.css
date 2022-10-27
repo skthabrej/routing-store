@@ -10,29 +10,31 @@
   
   .details-author-name {
     font-weight: bold;
-    margin-top: 40px;
-    font-size: 25px;
+    margin-top: 10px;
+    font-size: 20px;
     margin-left: 15px;
     color: red;
   }
   
   .author-pic {
-    width: 100px;
+    width: 50px;
+    height: 50px;
     border-radius: 100%;
   }
   
   .blog-details-title {
     color: brown;
     font-weight: bold;
+    font-size: 22px;
   }
   
   .blog-image {
-    width: 60%;
-    height: 40%;
+    width: 300px;
+    height: 150px;
+    margin-top: 10%;
   }
   
   .blog-content {
-    flex-wrap: wrap;
-    width: 100%;
-    font-size: 20px;
+    font-size: 16px;
+    font-weight: bold;
   }

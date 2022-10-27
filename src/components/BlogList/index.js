@@ -1,6 +1,6 @@
 import './index.css'
 import {Component} from 'react'
-import {Audio} from 'react-loader-spinner'
+import {Puff} from 'react-loader-spinner'
 import UserInfo from '../UserInfo'
 import BlogItem from '../BlogItem'
 
@@ -32,7 +32,7 @@ class BlogList extends Component {
                 <UserInfo/>
                 <div className='user'>
                     {isLoading ? 
-                    (<Audio type="Circles" color="#00BFFF" height={100} width={100} />)
+                    (<Puff type="Circles" color="#00BFFF" height={100} width={100} />)
                     : 
                     (blogdata.map(eachBlog => (<BlogItem blog={eachBlog} key={eachBlog.id} />))
                     )}

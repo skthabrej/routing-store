@@ -1,4 +1,4 @@
-import {Audio} from "react-loader-spinner";
+import {Circles} from "react-loader-spinner";
 import './index.css'
 import { useParams } from "react-router-dom"
 import { useState,useEffect} from "react";
@@ -48,7 +48,7 @@ const BlogItemDetails = props => {
     return (
       <div className="blog-container">
         {isLoading ? (
-          <Audio type="TailSpin" color="#00BFFF" height={50} width={50} />
+          <Circles type="TailSpin" color="#00BFFF" height={50} width={50} />
         ) : (
           renderBlogItemDetails()
         )}
